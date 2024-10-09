@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Programming News Feeds</title>
+  </head>
+  <body>
+    <outline text="Programming News" title="Programming News">
+      <!-- General Programming News -->
+      <outline text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" />
+      <outline text="The Verge - Developers" type="rss" xmlUrl="https://www.theverge.com/rss/developers/index.xml" />
+      <outline text="TechCrunch - Startups" type="rss" xmlUrl="https://techcrunch.com/startups/feed/" />
+      <outline text="Reddit - Programming" type="rss" xmlUrl="https://www.reddit.com/r/programming/.rss" />
+      <outline text="InfoQ" type="rss" xmlUrl="https://feed.infoq.com/" />
+      <outline text="DZone" type="rss" xmlUrl="https://feeds.dzone.com/home" />
+      <outline text="Stack Overflow Blog" type="rss" xmlUrl="https://stackoverflow.blog/feed/" />
+      <outline text="SitePoint" type="rss" xmlUrl="https://www.sitepoint.com/feed/" />
+      <outline text="freeCodeCamp" type="rss" xmlUrl="https://www.freecodecamp.org/news/rss/" />
+      <outline text="Dev.to" type="rss" xmlUrl="https://dev.to/feed/" />
+      <outline text="CSS-Tricks" type="rss" xmlUrl="https://css-tricks.com/feed/" />
+      <outline text="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" />
+      <outline text="David Walsh Blog" type="rss" xmlUrl="https://davidwalsh.name/feed" />
+      <outline text="JavaScript Weekly" type="rss" xmlUrl="https://javascriptweekly.com/rss/" />
+      <outline text="Frontend Focus" type="rss" xmlUrl="https://frontendfoc.us/rss/" />
+      <outline text="GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" />
+      <outline text="GitLab Blog" type="rss" xmlUrl="https://about.gitlab.com/blog/feed/" />
+      <outline text="The New Stack" type="rss" xmlUrl="https://thenewstack.io/feed/" />
+      
+      <!-- Language-Specific News -->
+      <outline text="Python Software Foundation" type="rss" xmlUrl="https://pyfound.blogspot.com/feeds/posts/default" />
+      <outline text="Python Weekly" type="rss" xmlUrl="https://www.pythonweekly.com/rss/" />
+      <outline text="Real Python" type="rss" xmlUrl="https://realpython.com/atom.xml" />
+      <outline text="Planet Python" type="rss" xmlUrl="http://planetpython.org/rss20.xml" />
+      <outline text="Ruby Inside" type="rss" xmlUrl="https://www.rubyinside.com/feed/" />
+      <outline text="Ruby Weekly" type="rss" xmlUrl="https://rubyweekly.com/rss/" />
+      <outline text="Go Blog" type="rss" xmlUrl="https://blog.golang.org/feed.atom" />
+      <outline text="Rust Blog" type="rss" xmlUrl="https://blog.rust-lang.org/feed.xml" />
+      <outline text="Java Code Geeks" type="rss" xmlUrl="https://www.javacodegeeks.com/feed" />
+      <outline text="Planet Clojure" type="rss" xmlUrl="http://planet.clojure.in/atom.xml" />
+      <outline text="Elixir Radar" type="rss" xmlUrl="https://elixir-radar.com/rss" />
+      <outline text="Node.js Blog" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml" />
+      <outline text="TypeScript Blog" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/feed/" />
+      <outline text="The Pragmatic Engineer" type="rss" xmlUrl="https://newsletter.pragmaticengineer.com/rss/" />
+      <outline text="Swift by Sundell" type="rss" xmlUrl="https://www.swiftbysundell.com/rss" />
+      <outline text="PHP Weekly" type="rss" xmlUrl="https://www.phpweekly.com/rss.xml" />
+      <outline text="Laravel News" type="rss" xmlUrl="https://laravel-news.com/feed" />
+
+      <!-- Open Source and Frameworks -->
+      <outline text="Planet Ubuntu" type="rss" xmlUrl="http://planet.ubuntu.com/rss20.xml" />
+      <outline text="Linux Kernel Mailing List" type="rss" xmlUrl="https://lore.kernel.org/lkml/rss" />
+      <outline text="Kubernetes Blog" type="rss" xmlUrl="https://kubernetes.io/feed.xml" />
+      <outline text="Docker Blog" type="rss" xmlUrl="https://www.docker.com/blog/feed/" />
+      <outline text="Apache Software Foundation" type="rss" xmlUrl="https://blogs.apache.org/foundation/feed/entries/atom" />
+      <outline text="Red Hat Developers" type="rss" xmlUrl="https://developers.redhat.com/blog/feed" />
+      <outline text="DevOps.com" type="rss" xmlUrl="https://devops.com/feed/" />
+      <outline text="Jenkins Blog" type="rss" xmlUrl="https://www.jenkins.io/blog/index.xml" />
+      <outline text="Terraform Blog" type="rss" xmlUrl="https://www.hashicorp.com/blog/category/terraform/feed.xml" />
+      
+      <!-- Mobile Development -->
+      <outline text="Android Developers Blog" type="rss" xmlUrl="https://android-developers.googleblog.com/feeds/posts/default" />
+      <outline text="iOS Dev Weekly" type="rss" xmlUrl="https://iosdevweekly.com/issues.rss" />
+      <outline text="Flutter Blog" type="rss" xmlUrl="https://medium.com/feed/flutter" />
+
+      <!-- Security & Best Practices -->
+      <outline text="Snyk Blog" type="rss" xmlUrl="https://snyk.io/blog/feed/" />
+      <outline text="Security Boulevard" type="rss" xmlUrl="https://securityboulevard.com/feed/" />
+      <outline text="Dark Reading" type="rss" xmlUrl="https://www.darkreading.com/rss.xml" />
+    </outline>
+  </body>
+</opml>
