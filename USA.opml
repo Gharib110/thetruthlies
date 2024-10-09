@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>USA News Feeds</title>
+  </head>
+  <body>
+    <outline text="USA News" title="USA News">
+      <!-- Major US News Outlets -->
+      <outline text="CNN" type="rss" xmlUrl="http://rss.cnn.com/rss/edition.rss" />
+      <outline text="The New York Times" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" />
+      <outline text="The Washington Post" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/world" />
+      <outline text="NBC News" type="rss" xmlUrl="https://www.nbcnews.com/rss" />
+      <outline text="ABC News" type="rss" xmlUrl="https://abcnews.go.com/abcnews/topstories" />
+      <outline text="CBS News" type="rss" xmlUrl="https://www.cbsnews.com/latest/rss/main" />
+      <outline text="USA Today" type="rss" xmlUrl="https://rss.usatoday.com/rss/entertainment" />
+      <outline text="Fox News" type="rss" xmlUrl="https://feeds.foxnews.com/foxnews/latest" />
+      <outline text="HuffPost" type="rss" xmlUrl="https://www.huffpost.com/section/front-page/feed" />
+      <outline text="The Hill" type="rss" xmlUrl="https://thehill.com/rss/syndicator/atom" />
+      <outline text="Politico" type="rss" xmlUrl="https://www.politico.com/rss/politics.xml" />
+      <outline text="NPR" type="rss" xmlUrl="https://www.npr.org/rss/rss.php?id=1001" />
+
+      <!-- Business and Economy -->
+      <outline text="Bloomberg" type="rss" xmlUrl="https://www.bloomberg.com/feed/podcast/etf-report.xml" />
+      <outline text="Forbes" type="rss" xmlUrl="https://www.forbes.com/most-popular/feed/" />
+      <outline text="Business Insider" type="rss" xmlUrl="https://www.businessinsider.com/rss" />
+      <outline text="The Wall Street Journal" type="rss" xmlUrl="https://www.wsj.com/xml/rss/3_7085.xml" />
+      <outline text="CNBC" type="rss" xmlUrl="https://www.cnbc.com/id/19748525/device/rss/rss.html" />
+
+      <!-- Politics -->
+      <outline text="Politico - Congress" type="rss" xmlUrl="https://www.politico.com/rss/congress.xml" />
+      <outline text="The Atlantic" type="rss" xmlUrl="https://www.theatlantic.com/feed/all/" />
+      <outline text="Mother Jones" type="rss" xmlUrl="https://www.motherjones.com/feed/" />
+      <outline text="Talking Points Memo" type="rss" xmlUrl="https://talkingpointsmemo.com/feed" />
+      <outline text="The Nation" type="rss" xmlUrl="https://www.thenation.com/feed/" />
+
+      <!-- Technology and Science -->
+      <outline text="TechCrunch" type="rss" xmlUrl="https://feeds.feedburner.com/TechCrunch/" />
+      <outline text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss" />
+      <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" />
+      <outline text="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" />
+      <outline text="Scientific American" type="rss" xmlUrl="https://www.scientificamerican.com/feed/" />
+
+      <!-- Health and Lifestyle -->
+      <outline text="WebMD" type="rss" xmlUrl="https://www.webmd.com/rss" />
+      <outline text="Healthline" type="rss" xmlUrl="https://www.healthline.com/rss" />
+      <outline text="Psychology Today" type="rss" xmlUrl="https://www.psychologytoday.com/us/blog/rss" />
+      <outline text="The New England Journal of Medicine" type="rss" xmlUrl="https://www.nejm.org/action/showFeed?type=etoc&feed=nejm" />
+      <outline text="Mayo Clinic" type="rss" xmlUrl="https://newsnetwork.mayoclinic.org/category/health-and-wellness/feed/" />
+
+      <!-- Sports -->
+      <outline text="ESPN" type="rss" xmlUrl="https://www.espn.com/espn/rss/news" />
+      <outline text="Bleacher Report" type="rss" xmlUrl="http://feeds.bleacherreport.com/news" />
+      <outline text="NBC Sports" type="rss" xmlUrl="https://www.nbcsports.com/rss" />
+      <outline text="CBS Sports" type="rss" xmlUrl="https://www.cbssports.com/rss/headlines/" />
+      <outline text="Sports Illustrated" type="rss" xmlUrl="https://www.si.com/rss/si_topstories.rss" />
+
+      <!-- Entertainment and Culture -->
+      <outline text="Variety" type="rss" xmlUrl="https://variety.com/feed/" />
+      <outline text="Rolling Stone" type="rss" xmlUrl="https://www.rollingstone.com/feed/" />
+      <outline text="Deadline" type="rss" xmlUrl="https://deadline.com/feed/" />
+      <outline text="Pitchfork" type="rss" xmlUrl="https://pitchfork.com/rss/news/" />
+      <outline text="Collider" type="rss" xmlUrl="https://collider.com/rss/" />
+
+      <!-- Miscellaneous -->
+      <outline text="The Daily Beast" type="rss" xmlUrl="https://www.thedailybeast.com/rss.xml" />
+      <outline text="Slate" type="rss" xmlUrl="https://slate.com/feed" />
+      <outline text="The Ringer" type="rss" xmlUrl="https://www.theringer.com/rss/index.xml" />
+      <outline text="Cracked" type="rss" xmlUrl="https://feeds.feedburner.com/cracked/how-to" />
+      <outline text="Atlas Obscura" type="rss" xmlUrl="https://www.atlasobscura.com/feeds/articles" />
+    </outline>
+  </body>
+</opml>
