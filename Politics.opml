@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Politics News Feeds</title>
+  </head>
+  <body>
+    <outline text="Politics News" title="Politics News">
+      <!-- Major Political News Outlets -->
+      <outline text="The New York Times - Politics" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml" />
+      <outline text="CNN Politics" type="rss" xmlUrl="http://rss.cnn.com/rss/edition_politics.rss" />
+      <outline text="The Washington Post - Politics" type="rss" xmlUrl="https://feeds.washingtonpost.com/rss/politics" />
+      <outline text="NPR Politics" type="rss" xmlUrl="https://www.npr.org/rss/rss.php?id=1018" />
+      <outline text="Politico" type="rss" xmlUrl="https://www.politico.com/rss/politics.xml" />
+      <outline text="ABC News Politics" type="rss" xmlUrl="https://abcnews.go.com/abcnews/politics" />
+      <outline text="The Hill" type="rss" xmlUrl="https://thehill.com/rss/syndicator/atom" />
+      <outline text="Reuters Politics" type="rss" xmlUrl="https://www.reuters.com/rssFeed/politicsNews" />
+      <outline text="MSNBC" type="rss" xmlUrl="https://www.msnbc.com/feeds/latest/politics" />
+      <outline text="HuffPost Politics" type="rss" xmlUrl="https://www.huffpost.com/section/politics/feed" />
+
+      <!-- International Politics -->
+      <outline text="Foreign Policy" type="rss" xmlUrl="https://foreignpolicy.com/feed/" />
+      <outline text="Al Jazeera Politics" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" />
+      <outline text="The Economist - Politics" type="rss" xmlUrl="https://www.economist.com/united-states/rss-feed" />
+      <outline text="BBC News - Politics" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/politics/rss.xml" />
+      <outline text="Financial Times - Politics" type="rss" xmlUrl="https://www.ft.com/world/politics/rss" />
+
+      <!-- Analysis and Opinion -->
+      <outline text="The Atlantic" type="rss" xmlUrl="https://www.theatlantic.com/feed/all/" />
+      <outline text="Slate" type="rss" xmlUrl="https://slate.com/feed" />
+      <outline text="Mother Jones" type="rss" xmlUrl="https://www.motherjones.com/feed/" />
+      <outline text="The Nation" type="rss" xmlUrl="https://www.thenation.com/feed/" />
+      <outline text="Brookings Institution" type="rss" xmlUrl="https://www.brookings.edu/rss/" />
+
+      <!-- Local Politics -->
+      <outline text="Local Politics News" type="rss" xmlUrl="https://www.localnews.com/rss/politics" />
+      <outline text="CityLab" type="rss" xmlUrl="https://www.citylab.com/rss/index.xml" />
+      <outline text="Governing" type="rss" xmlUrl="https://www.governing.com/rss" />
+      <outline text="Governing - Politics" type="rss" xmlUrl="https://www.governing.com/rss/politics" />
+      <outline text="StateScoop" type="rss" xmlUrl="https://statescoop.com/rss" />
+
+      <!-- Think Tanks and Research -->
+      <outline text="Cato Institute" type="rss" xmlUrl="https://www.cato.org/rss" />
+      <outline text="Heritage Foundation" type="rss" xmlUrl="https://www.heritage.org/rss" />
+      <outline text="Urban Institute" type="rss" xmlUrl="https://www.urban.org/urban-wire/feed" />
+      <outline text="Pew Research Center" type="rss" xmlUrl="https://www.pewresearch.org/feed/" />
+      <outline text="RAND Corporation" type="rss" xmlUrl="https://www.rand.org/rss/news.xml" />
+
+      <!-- Election News -->
+      <outline text="FiveThirtyEight" type="rss" xmlUrl="https://fivethirtyeight.com/features/feed/" />
+      <outline text="Ballotpedia" type="rss" xmlUrl="https://ballotpedia.org/Special:AllPages?feed=atom" />
+      <outline text="Election Assistance Commission" type="rss" xmlUrl="https://www.eac.gov/election-officials/news-rss" />
+      <outline text="The Cook Political Report" type="rss" xmlUrl="https://www.cookpolitical.com/rss" />
+      <outline text="National Journal" type="rss" xmlUrl="https://www.nationaljournal.com/rss" />
+
+      <!-- Miscellaneous Politics -->
+      <outline text="RealClearPolitics" type="rss" xmlUrl="https://www.realclearpolitics.com/rss" />
+      <outline text="Politifact" type="rss" xmlUrl="https://www.politifact.com/rss/" />
+      <outline text="The Fix - Washington Post" type="rss" xmlUrl="https://www.washingtonpost.com/politics/the-fix/feed/" />
+      <outline text="The Intercept" type="rss" xmlUrl="https://theintercept.com/feed/" />
+      <outline text="The Daily Beast" type="rss" xmlUrl="https://www.thedailybeast.com/rss.xml" />
+    </outline>
+  </body>
+</opml>
