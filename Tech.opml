@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Tech News Feeds</title>
+  </head>
+  <body>
+    <outline text="Tech News" title="Tech News">
+      <!-- Major Tech News Outlets -->
+      <outline text="TechCrunch" type="rss" xmlUrl="https://feeds.feedburner.com/TechCrunch/" />
+      <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" />
+      <outline text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss" />
+      <outline text="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" />
+      <outline text="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" />
+      <outline text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/rss" />
+      <outline text="CNET" type="rss" xmlUrl="https://www.cnet.com/rss/news/" />
+      <outline text="PCMag" type="rss" xmlUrl="https://www.pcmag.com/rss/news" />
+      <outline text="ZDNet" type="rss" xmlUrl="https://www.zdnet.com/topic/news/rss.xml" />
+      <outline text="Mashable" type="rss" xmlUrl="https://mashable.com/feed/" />
+
+      <!-- Startup and Business -->
+      <outline text="Crunchbase News" type="rss" xmlUrl="https://news.crunchbase.com/feed/" />
+      <outline text="TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss" />
+      <outline text="VentureBeat" type="rss" xmlUrl="https://venturebeat.com/feed/" />
+      <outline text="The Next Web" type="rss" xmlUrl="https://thenextweb.com/feed" />
+      <outline text="Recode" type="rss" xmlUrl="https://www.vox.com/rss/recode/index.xml" />
+
+      <!-- Reviews and Products -->
+      <outline text="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" />
+      <outline text="AnandTech" type="rss" xmlUrl="https://www.anandtech.com/rss/all.xml" />
+      <outline text="Digital Trends" type="rss" xmlUrl="https://www.digitaltrends.com/feed/" />
+      <outline text="iMore" type="rss" xmlUrl="https://www.imore.com/rss.xml" />
+      <outline text="9to5Mac" type="rss" xmlUrl="https://9to5mac.com/feed/" />
+
+      <!-- Software and Development -->
+      <outline text="GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" />
+      <outline text="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" />
+      <outline text="Dev.to" type="rss" xmlUrl="https://dev.to/feed/" />
+      <outline text="Stack Overflow Blog" type="rss" xmlUrl="https://stackoverflow.blog/feed/" />
+      <outline text="DZone" type="rss" xmlUrl="https://dzone.com/feed" />
+
+      <!-- Security and Privacy -->
+      <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" />
+      <outline text="The Hacker News" type="rss" xmlUrl="https://thehackernews.com/feed" />
+      <outline text="SecurityWeek" type="rss" xmlUrl="https://www.securityweek.com/rss" />
+      <outline text="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/" />
+      <outline text="CyberScoop" type="rss" xmlUrl="https://www.cyberscoop.com/feed/" />
+
+      <!-- Gadgets and Consumer Tech -->
+      <outline text="PhoneArena" type="rss" xmlUrl="https://www.phonearena.com/rss" />
+      <outline text="Android Authority" type="rss" xmlUrl="https://www.androidauthority.com/feed/" />
+      <outline text="MacRumors" type="rss" xmlUrl="https://www.macrumors.com/xml/rss.xml" />
+      <outline text="iFixit" type="rss" xmlUrl="https://www.ifixit.com/News/RSS" />
+      <outline text="The Gadgeteer" type="rss" xmlUrl="https://the-gadgeteer.com/feed/" />
+
+      <!-- Miscellaneous Tech News -->
+      <outline text="Gigaom" type="rss" xmlUrl="https://gigaom.com/feed/" />
+      <outline text="PandoDaily" type="rss" xmlUrl="https://pando.com/feed/" />
+      <outline text="The Information" type="rss" xmlUrl="https://www.theinformation.com/rss" />
+      <outline text="CIO" type="rss" xmlUrl="https://www.cio.com/index.rss" />
+      <outline text="ReadWrite" type="rss" xmlUrl="https://readwrite.com/feed/" />
+    </outline>
+  </body>
+</opml>
