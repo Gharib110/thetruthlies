@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Persian Domestic News Feeds</title>
+  </head>
+  <body>
+    <outline text="Persian Domestic News" title="Persian Domestic News">
+      <outline text="IRNA" type="rss" xmlUrl="https://www.irna.ir/rss" />
+      <outline text="ISNA" type="rss" xmlUrl="https://www.isna.ir/rss" />
+      <outline text="Tasnim News" type="rss" xmlUrl="https://www.tasnimnews.com/fa/rss/feed/0/7/0" />
+      <outline text="Mehr News" type="rss" xmlUrl="https://www.mehrnews.com/rss" />
+      <outline text="Fars News" type="rss" xmlUrl="https://www.farsnews.ir/rss" />
+      <outline text="Khabar Online" type="rss" xmlUrl="https://www.khabaronline.ir/rss" />
+      <outline text="Entekhab" type="rss" xmlUrl="https://www.entekhab.ir/fa/rss/allnews" />
+      <outline text="Jam-e Jam Online" type="rss" xmlUrl="https://jamejamonline.ir/rss" />
+    </outline>
+  </body>
+</opml>
