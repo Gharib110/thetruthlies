@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Linux News Feeds</title>
+  </head>
+  <body>
+    <outline text="Linux News" title="Linux News">
+      <!-- Major Linux News Websites -->
+      <outline text="Linux.com" type="rss" xmlUrl="https://www.linux.com/feed/" />
+      <outline text="OMG! Ubuntu!" type="rss" xmlUrl="https://www.omgubuntu.co.uk/feed" />
+      <outline text="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/rss.php" />
+      <outline text="DistroWatch" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml" />
+      <outline text="LXer" type="rss" xmlUrl="http://lxer.com/module/newswire/headlines.rss" />
+      <outline text="Linux Today" type="rss" xmlUrl="https://www.linuxtoday.com/feed/" />
+      <outline text="It's FOSS" type="rss" xmlUrl="https://itsfoss.com/feed/" />
+      <outline text="9to5Linux" type="rss" xmlUrl="https://9to5linux.com/feed" />
+      <outline text="GamingOnLinux" type="rss" xmlUrl="https://www.gamingonlinux.com/article_rss.php" />
+      <outline text="The Register - Linux" type="rss" xmlUrl="https://www.theregister.com/headlines.atom?topic=linux" />
+      <outline text="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" />
+      <outline text="FOSS Force" type="rss" xmlUrl="https://fossforce.com/feed/" />
+      <outline text="Linux Magazine" type="rss" xmlUrl="https://www.linux-magazine.com/rss/feed/lmi_news" />
+      <outline text="Linux Journal" type="rss" xmlUrl="https://www.linuxjournal.com/node/feed" />
+      
+      <!-- Linux Distributions -->
+      <outline text="Fedora Magazine" type="rss" xmlUrl="https://fedoramagazine.org/feed/" />
+      <outline text="Ubuntu News" type="rss" xmlUrl="https://ubuntu.com/blog/feeds/all.rss" />
+      <outline text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news" />
+      <outline text="Arch Linux News" type="rss" xmlUrl="https://archlinux.org/feeds/news/" />
+      <outline text="OpenSUSE News" type="rss" xmlUrl="https://news.opensuse.org/feed/" />
+      <outline text="Kali Linux" type="rss" xmlUrl="https://www.kali.org/feed/" />
+      <outline text="Red Hat Blog" type="rss" xmlUrl="https://www.redhat.com/en/rss/blog" />
+      <outline text="CentOS Blog" type="rss" xmlUrl="https://blog.centos.org/feed/" />
+      <outline text="Manjaro Linux" type="rss" xmlUrl="https://manjaro.org/feed/" />
+      <outline text="Pop!_OS Blog" type="rss" xmlUrl="https://blog.system76.com/rss/" />
+      <outline text="Linux Mint" type="rss" xmlUrl="https://blog.linuxmint.com/?feed=rss2" />
+
+      <!-- Open Source Projects & Development -->
+      <outline text="GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" />
+      <outline text="GitLab Blog" type="rss" xmlUrl="https://about.gitlab.com/atom.xml" />
+      <outline text="LibreOffice Blog" type="rss" xmlUrl="https://blog.documentfoundation.org/feed/" />
+      <outline text="KDE News" type="rss" xmlUrl="https://kde.org/announcements/feed.xml" />
+      <outline text="GNOME News" type="rss" xmlUrl="https://news.gnome.org/feed/" />
+      <outline text="Xfce News" type="rss" xmlUrl="https://www.xfce.org/about/news.rss" />
+      <outline text="Linux Kernel Mailing List" type="rss" xmlUrl="https://lore.kernel.org/lkml/rss" />
+      <outline text="Mozilla Blog" type="rss" xmlUrl="https://blog.mozilla.org/feed/" />
+      <outline text="LibrePlanet Blog" type="rss" xmlUrl="https://libreplanet.org/blog/rss.xml" />
+      <outline text="Planet GNOME" type="rss" xmlUrl="https://planet.gnome.org/rss20.xml" />
+      <outline text="Planet KDE" type="rss" xmlUrl="https://planet.kde.org/rss20.xml" />
+
+      <!-- Linux Security -->
+      <outline text="Linux Security" type="rss" xmlUrl="https://linuxsecurity.com/news/news_rss" />
+      <outline text="The Hacker News" type="rss" xmlUrl="https://thehackernews.com/feeds/posts/default" />
+      <outline text="OSTechNix - Security" type="rss" xmlUrl="https://ostechnix.com/tag/security/feed/" />
+      <outline text="Security Week" type="rss" xmlUrl="https://www.securityweek.com/rss.xml" />
+
+      <!-- Tutorials and How-Tos -->
+      <outline text="OSTechNix" type="rss" xmlUrl="https://ostechnix.com/feed/" />
+      <outline text="HowtoForge" type="rss" xmlUrl="https://www.howtoforge.com/feed/" />
+      <outline text="Linuxize" type="rss" xmlUrl="https://linuxize.com/feed/" />
+      <outline text="DebugPoint" type="rss" xmlUrl="https://www.debugpoint.com/feed/" />
+      <outline text="Linux Uprising" type="rss" xmlUrl="https://www.linuxuprising.com/feeds/posts/default" />
+      <outline text="Linux Handbook" type="rss" xmlUrl="https://linuxhandbook.com/feed/" />
+      <outline text="Fedora Tutorials" type="rss" xmlUrl="https://fedoramagazine.org/tag/tutorial/feed/" />
+      <outline text="Xmodulo" type="rss" xmlUrl="https://xmodulo.com/feed" />
+      <outline text="Linux Hint" type="rss" xmlUrl="https://linuxhint.com/rss.xml" />
+    </outline>
+  </body>
+</opml>
