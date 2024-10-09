@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Iran Domestic News Feeds</title>
+  </head>
+  <body>
+    <outline text="Iran Domestic News" title="Iran Domestic News">
+      <!-- Major Iranian News Outlets -->
+      <outline text="IRNA" type="rss" xmlUrl="https://www.irna.ir/rss" />
+      <outline text="Mehr News" type="rss" xmlUrl="https://en.mehrnews.com/rss" />
+      <outline text="Fars News" type="rss" xmlUrl="https://www.farsnews.ir/en/rss" />
+      <outline text="Tehran Times" type="rss" xmlUrl="https://www.tehrantimes.com/rss" />
+      <outline text="Khabar Online" type="rss" xmlUrl="https://www.khabaronline.ir/rss" />
+      <outline text="Tasnim News" type="rss" xmlUrl="https://www.tasnimnews.com/en/rss" />
+      <outline text="ISNA" type="rss" xmlUrl="https://www.isna.ir/rss" />
+      <outline text="Javan Online" type="rss" xmlUrl="https://www.javanonline.ir/rss" />
+      <outline text="Hamshahri Online" type="rss" xmlUrl="https://hamshahrionline.ir/rss" />
+      <outline text="Donya-e-Eqtesad" type="rss" xmlUrl="https://www.donya-e-eqtesad.com/rss" />
+
+      <!-- Politics and Current Affairs -->
+      <outline text="IRNA Political" type="rss" xmlUrl="https://www.irna.ir/rss/politics" />
+      <outline text="Fars News Politics" type="rss" xmlUrl="https://www.farsnews.ir/en/services/10" />
+      <outline text="Tehran Times Politics" type="rss" xmlUrl="https://www.tehrantimes.com/politics" />
+      <outline text="Khabar Online Politics" type="rss" xmlUrl="https://www.khabaronline.ir/politics" />
+      <outline text="Tasnim News Politics" type="rss" xmlUrl="https://www.tasnimnews.com/en/service/politics" />
+
+      <!-- Economy and Business -->
+      <outline text="Financial Tribune" type="rss" xmlUrl="https://financialtribune.com/rss" />
+      <outline text="Tehran Stock Exchange" type="rss" xmlUrl="https://www.tse.ir/en/rss" />
+      <outline text="Eghtesad News" type="rss" xmlUrl="https://www.eghtesadnews.com/rss" />
+      <outline text="Sena" type="rss" xmlUrl="https://www.sena.ir/rss" />
+      <outline text="Donya-e-Eqtesad Economy" type="rss" xmlUrl="https://www.donya-e-eqtesad.com/news-service" />
+
+      <!-- Culture and Society -->
+      <outline text="Tehran Times Culture" type="rss" xmlUrl="https://www.tehrantimes.com/culture" />
+      <outline text="ISNA Culture" type="rss" xmlUrl="https://www.isna.ir/service/culture" />
+      <outline text="Fars News Culture" type="rss" xmlUrl="https://www.farsnews.ir/en/services/15" />
+      <outline text="Hamshahri Culture" type="rss" xmlUrl="https://hamshahrionline.ir/culture" />
+      <outline text="Cultural Heritage News" type="rss" xmlUrl="https://www.chtn.ir/rss" />
+
+      <!-- Science and Technology -->
+      <outline text="IRNA Science" type="rss" xmlUrl="https://www.irna.ir/rss/science" />
+      <outline text="ISNA Science" type="rss" xmlUrl="https://www.isna.ir/service/science" />
+      <outline text="Fars News Technology" type="rss" xmlUrl="https://www.farsnews.ir/en/services/12" />
+      <outline text="Scientific and Industrial Research" type="rss" xmlUrl="https://www.sirpa.ir/en/rss" />
+      <outline text="Iranian Science and Technology News" type="rss" xmlUrl="https://www.istnews.ir/rss" />
+
+      <!-- Sports -->
+      <outline text="ISNA Sports" type="rss" xmlUrl="https://www.isna.ir/service/sport" />
+      <outline text="Fars News Sports" type="rss" xmlUrl="https://www.farsnews.ir/en/services/14" />
+      <outline text="Tehran Times Sports" type="rss" xmlUrl="https://www.tehrantimes.com/sports" />
+      <outline text="Khabar Online Sports" type="rss" xmlUrl="https://www.khabaronline.ir/sports" />
+      <outline text="Varzesh 3" type="rss" xmlUrl="https://www.varzesh3.com/rss" />
+
+      <!-- Miscellaneous -->
+      <outline text="Shahrvand" type="rss" xmlUrl="https://www.shahrvand.com/rss" />
+      <outline text="Aftab News" type="rss" xmlUrl="https://www.aftabnews.ir/rss" />
+      <outline text="Khabar Farsi" type="rss" xmlUrl="https://www.khabarfarsi.com/rss" />
+      <outline text="Rooznameh" type="rss" xmlUrl="https://www.rooznameh.com/rss" />
+      <outline text="Khaneye Khodro" type="rss" xmlUrl="https://www.khaneyekhodro.com/rss" />
+    </outline>
+  </body>
+</opml>
