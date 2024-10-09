@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Persian Foreign News Feeds</title>
+  </head>
+  <body>
+    <outline text="Persian Foreign News" title="Persian Foreign News">
+      <!-- Major International News in Persian -->
+      <outline text="BBC Persian" type="rss" xmlUrl="https://www.bbc.com/persian/index.xml" />
+      <outline text="Deutsche Welle Persian" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-per-all" />
+      <outline text="VOA Persian" type="rss" xmlUrl="https://ir.voanews.com/api/zuiqmoegkq" />
+      <outline text="Euronews Persian" type="rss" xmlUrl="https://fa.euronews.com/rss?level=theme&name=news" />
+      <outline text="Radio Farda" type="rss" xmlUrl="https://www.radiofarda.com/api/zgkgqyeijqqy" />
+      <outline text="France24 Persian" type="rss" xmlUrl="https://www.france24.com/fa/rss" />
+      <outline text="Sputnik Persian" type="rss" xmlUrl="https://ir.sputniknews.com/export/rss2/archive/index.xml" />
+      <outline text="Al Jazeera Persian" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" />
+      <outline text="Anadolu Agency Persian" type="rss" xmlUrl="https://www.aa.com.tr/fa/rss/default?cat=world" />
+      <outline text="Pars Today" type="rss" xmlUrl="https://parstoday.com/fa/rss" />
+      <outline text="Independent Persian" type="rss" xmlUrl="https://www.independentpersian.com/rss" />
+
+      <!-- Persian News Agencies Covering Foreign Affairs -->
+      <outline text="ISNA (International)" type="rss" xmlUrl="https://www.isna.ir/rss/tp/22" />
+      <outline text="IRNA (International)" type="rss" xmlUrl="https://www.irna.ir/rss/tp/3" />
+      <outline text="Mehr News (World)" type="rss" xmlUrl="https://www.mehrnews.com/rss/tp/18" />
+      <outline text="Tasnim News (World)" type="rss" xmlUrl="https://www.tasnimnews.com/fa/rss/feed/1/6" />
+      <outline text="Fars News (World)" type="rss" xmlUrl="https://www.farsnews.ir/rss/world" />
+      
+      <!-- Specialized Persian News on Global Affairs -->
+      <outline text="Tehran Times (International)" type="rss" xmlUrl="https://www.tehrantimes.com/rss/tp/11" />
+      <outline text="Diplomacy.ir" type="rss" xmlUrl="https://www.diplomacy.ir/rss" />
+      <outline text="Iran International (World)" type="rss" xmlUrl="https://www.iranintl.com/rss.xml" />
+      <outline text="Khabar Online (World)" type="rss" xmlUrl="https://www.khabaronline.ir/rss/tp/7" />
+      <outline text="Jam-e-Jam Online (World)" type="rss" xmlUrl="https://jamejamonline.ir/rss/tp/3" />
+      <outline text="Hamshahri Online (World)" type="rss" xmlUrl="https://www.hamshahrionline.ir/rss/tp/4" />
+      <outline text="Shahrvand Newspaper (International)" type="rss" xmlUrl="https://shahrvand-newspaper.ir/rss/tp/6" />
+      <outline text="Shargh Daily (International)" type="rss" xmlUrl="https://sharghdaily.com/rss/tp/9" />
+      <outline text="Donya-e-Eqtesad (International)" type="rss" xmlUrl="https://donya-e-eqtesad.com/rss/tp/2" />
+
+      <!-- Regional News (Middle East, Asia, and Europe) -->
+      <outline text="Al-Monitor Persian" type="rss" xmlUrl="https://www.al-monitor.com/proxy/per/rss.xml" />
+      <outline text="TRT Persian" type="rss" xmlUrl="https://www.trt.net.tr/persian/rss" />
+      <outline text="BBC Arabic (via Persian)" type="rss" xmlUrl="https://www.bbc.com/arabic/index.xml" />
+      <outline text="Middle East Eye (via Persian)" type="rss" xmlUrl="https://www.middleeasteye.net/feed" />
+      <outline text="Kuwait News Agency (via Persian)" type="rss" xmlUrl="https://www.kuna.net.kw/rss.aspx?Language=English" />
+      <outline text="Asia Times (Persian)" type="rss" xmlUrl="https://asiatimes.com/rss" />
+
+      <!-- Economy and Business in Foreign Affairs -->
+      <outline text="BBC Persian - Economy" type="rss" xmlUrl="https://www.bbc.com/persian/business/index.xml" />
+      <outline text="VOA Persian - Economy" type="rss" xmlUrl="https://ir.voanews.com/api/zpvmqremuq" />
+      <outline text="Euronews Persian - Economy" type="rss" xmlUrl="https://fa.euronews.com/rss?level=theme&name=economy" />
+      <outline text="Radio Farda - Economy" type="rss" xmlUrl="https://www.radiofarda.com/api/zq$pmeqoe" />
+      <outline text="Al Jazeera Persian - Economy" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/economy.xml" />
+      
+      <!-- Culture, Society, and Other International Topics -->
+      <outline text="BBC Persian - Culture" type="rss" xmlUrl="https://www.bbc.com/persian/arts/index.xml" />
+      <outline text="VOA Persian - Culture" type="rss" xmlUrl="https://ir.voanews.com/api/zpvmqmegtg" />
+      <outline text="Deutsche Welle Persian - Culture" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-per-culture" />
+      <outline text="Euronews Persian - Culture" type="rss" xmlUrl="https://fa.euronews.com/rss?level=theme&name=culture" />
+      <outline text="Sputnik Persian - Culture" type="rss" xmlUrl="https://ir.sputniknews.com/export/rss2/archive/culture.xml" />
+      <outline text="France24 Persian - Culture" type="rss" xmlUrl="https://www.france24.com/fa/culture/rss" />
+      <outline text="TRT Persian - Culture" type="rss" xmlUrl="https://www.trt.net.tr/persian/culture/rss" />
+    </outline>
+  </body>
+</opml>
