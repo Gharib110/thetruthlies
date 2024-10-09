@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>DevOps and Unix News Feeds</title>
+  </head>
+  <body>
+    <outline text="DevOps and Unix News" title="DevOps and Unix News">
+      <!-- General DevOps News -->
+      <outline text="DevOps.com" type="rss" xmlUrl="https://devops.com/feed/" />
+      <outline text="The New Stack - DevOps" type="rss" xmlUrl="https://thenewstack.io/category/devops/feed/" />
+      <outline text="InfoQ DevOps" type="rss" xmlUrl="https://www.infoq.com/devops/rss" />
+      <outline text="DZone DevOps" type="rss" xmlUrl="https://feeds.dzone.com/devops" />
+      <outline text="DevOps Digest" type="rss" xmlUrl="https://www.devopsdigest.com/feed.xml" />
+      <outline text="Container Journal" type="rss" xmlUrl="https://containerjournal.com/feed/" />
+      <outline text="Kubernetes Blog" type="rss" xmlUrl="https://kubernetes.io/feed.xml" />
+      <outline text="Cloud Native Computing Foundation" type="rss" xmlUrl="https://www.cncf.io/feed/" />
+      <outline text="Terraform Blog" type="rss" xmlUrl="https://www.hashicorp.com/blog/category/terraform/feed.xml" />
+      <outline text="SRE Weekly" type="rss" xmlUrl="https://sreweekly.com/rss" />
+      <outline text="CloudBees" type="rss" xmlUrl="https://www.cloudbees.com/blog/rss" />
+      <outline text="TechTarget DevOps" type="rss" xmlUrl="https://searchitoperations.techtarget.com/rss/DevOps.xml" />
+      <outline text="Atlassian DevOps" type="rss" xmlUrl="https://www.atlassian.com/blog/devops/feed" />
+      <outline text="DigitalOcean Community" type="rss" xmlUrl="https://www.digitalocean.com/community/news/feed" />
+      <outline text="Docker Blog" type="rss" xmlUrl="https://www.docker.com/blog/feed/" />
+
+      <!-- Unix/Linux System Administration -->
+      <outline text="Linux Journal" type="rss" xmlUrl="https://www.linuxjournal.com/node/feed" />
+      <outline text="Linux.com" type="rss" xmlUrl="https://www.linux.com/feed/" />
+      <outline text="The Register - Linux" type="rss" xmlUrl="https://www.theregister.com/headlines.atom?topic=linux" />
+      <outline text="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/rss.php" />
+      <outline text="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" />
+      <outline text="Red Hat Blog" type="rss" xmlUrl="https://www.redhat.com/en/rss/blog" />
+      <outline text="SUSE Blog" type="rss" xmlUrl="https://www.suse.com/c/category/blog/feed/" />
+      <outline text="Linux Today" type="rss" xmlUrl="https://www.linuxtoday.com/feed/" />
+      <outline text="Fedora Magazine" type="rss" xmlUrl="https://fedoramagazine.org/feed/" />
+      <outline text="Debian News" type="rss" xmlUrl="https://www.debian.org/News/news" />
+      <outline text="Ubuntu News" type="rss" xmlUrl="https://ubuntu.com/blog/feeds/all.rss" />
+      <outline text="OpenSUSE News" type="rss" xmlUrl="https://news.opensuse.org/feed/" />
+
+      <!-- Cloud and Infrastructure News -->
+      <outline text="AWS News Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" />
+      <outline text="Microsoft Azure Blog" type="rss" xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" />
+      <outline text="Google Cloud Blog" type="rss" xmlUrl="https://cloud.google.com/blog/rss" />
+      <outline text="VMware Blog" type="rss" xmlUrl="https://blogs.vmware.com/vsphere/feed" />
+      <outline text="OpenStack Blog" type="rss" xmlUrl="https://www.openstack.org/blog/feed/" />
+      <outline text="Cloud Native Now" type="rss" xmlUrl="https://cloudnativenow.com/feed/" />
+      <outline text="Ansible Blog" type="rss" xmlUrl="https://www.ansible.com/blog/feed" />
+      <outline text="SaltStack Blog" type="rss" xmlUrl="https://saltstack.com/feed/" />
+      <outline text="Puppet Blog" type="rss" xmlUrl="https://puppet.com/blog/rss.xml" />
+      <outline text="Chef Blog" type="rss" xmlUrl="https://www.chef.io/blog/feed/" />
+
+      <!-- Continuous Integration/Continuous Delivery (CI/CD) -->
+      <outline text="Jenkins Blog" type="rss" xmlUrl="https://www.jenkins.io/blog/index.xml" />
+      <outline text="Travis CI Blog" type="rss" xmlUrl="https://blog.travis-ci.com/rss" />
+      <outline text="CircleCI Blog" type="rss" xmlUrl="https://circleci.com/blog/rss.xml" />
+      <outline text="GitLab CI/CD" type="rss" xmlUrl="https://about.gitlab.com/blog/categories/cicd/feed.xml" />
+      <outline text="GitHub Actions Blog" type="rss" xmlUrl="https://github.blog/category/community/github-actions/feed/" />
+
+      <!-- Automation and Scripting -->
+      <outline text="DevOps Automation Blog" type="rss" xmlUrl="https://www.automationanywhere.com/blog/feed" />
+      <outline text="Serverless Blog" type="rss" xmlUrl="https://www.serverless.com/blog/feed.xml" />
+      <outline text="Cloudflare Blog" type="rss" xmlUrl="https://blog.cloudflare.com/rss/" />
+    </outline>
+  </body>
+</opml>
