@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>UK News Feeds</title>
+  </head>
+  <body>
+    <outline text="UK News" title="UK News">
+      <!-- Major UK News Outlets -->
+      <outline text="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" />
+      <outline text="The Guardian" type="rss" xmlUrl="https://www.theguardian.com/uk/rss" />
+      <outline text="The Independent" type="rss" xmlUrl="https://www.independent.co.uk/news/uk/rss" />
+      <outline text="Sky News" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/home.xml" />
+      <outline text="The Telegraph" type="rss" xmlUrl="https://www.telegraph.co.uk/news/rss" />
+      <outline text="The Times" type="rss" xmlUrl="https://www.thetimes.co.uk/rss" />
+      <outline text="Daily Mail" type="rss" xmlUrl="https://www.dailymail.co.uk/home/index.rss" />
+      <outline text="Metro" type="rss" xmlUrl="https://metro.co.uk/feed/" />
+      <outline text="Evening Standard" type="rss" xmlUrl="https://www.standard.co.uk/rss" />
+      <outline text="The Sun" type="rss" xmlUrl="https://www.thesun.co.uk/feed/" />
+      <outline text="The Mirror" type="rss" xmlUrl="https://www.mirror.co.uk/rss" />
+
+      <!-- Business and Economy -->
+      <outline text="BBC Business" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" />
+      <outline text="The Guardian - Business" type="rss" xmlUrl="https://www.theguardian.com/uk/business/rss" />
+      <outline text="Financial Times" type="rss" xmlUrl="https://www.ft.com/?format=rss" />
+      <outline text="City A.M." type="rss" xmlUrl="https://www.cityam.com/feed/" />
+      <outline text="The Independent - Business" type="rss" xmlUrl="https://www.independent.co.uk/news/business/rss" />
+      
+      <!-- Politics -->
+      <outline text="BBC Politics" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/politics/rss.xml" />
+      <outline text="The Guardian - Politics" type="rss" xmlUrl="https://www.theguardian.com/uk/politics/rss" />
+      <outline text="The Independent - Politics" type="rss" xmlUrl="https://www.independent.co.uk/news/politics/rss" />
+      <outline text="Sky News - Politics" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/politics.xml" />
+      <outline text="The Telegraph - Politics" type="rss" xmlUrl="https://www.telegraph.co.uk/politics/rss" />
+
+      <!-- Technology and Science -->
+      <outline text="BBC Technology" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" />
+      <outline text="The Guardian - Technology" type="rss" xmlUrl="https://www.theguardian.com/uk/technology/rss" />
+      <outline text="TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss" />
+      <outline text="Wired UK" type="rss" xmlUrl="https://www.wired.co.uk/feed" />
+      <outline text="The Register" type="rss" xmlUrl="https://www.theregister.com/rss" />
+
+      <!-- Health and Lifestyle -->
+      <outline text="BBC Health" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/health/rss.xml" />
+      <outline text="The Guardian - Health" type="rss" xmlUrl="https://www.theguardian.com/uk/health/rss" />
+      <outline text="The Independent - Health" type="rss" xmlUrl="https://www.independent.co.uk/news/health/rss" />
+      <outline text="NHS England" type="rss" xmlUrl="https://www.england.nhs.uk/feed/" />
+      <outline text="Healthline" type="rss" xmlUrl="https://www.healthline.com/rss" />
+
+      <!-- Sports -->
+      <outline text="BBC Sport" type="rss" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml" />
+      <outline text="Sky Sports" type="rss" xmlUrl="https://www.skysports.com/rss/12040" />
+      <outline text="The Guardian - Sport" type="rss" xmlUrl="https://www.theguardian.com/uk/sport/rss" />
+      <outline text="ESPN UK" type="rss" xmlUrl="https://www.espn.co.uk/espn/rss/news" />
+      <outline text="The Independent - Sport" type="rss" xmlUrl="https://www.independent.co.uk/sport/rss" />
+
+      <!-- Entertainment and Culture -->
+      <outline text="BBC Entertainment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" />
+      <outline text="The Guardian - Culture" type="rss" xmlUrl="https://www.theguardian.com/uk/culture/rss" />
+      <outline text="The Independent - Culture" type="rss" xmlUrl="https://www.independent.co.uk/arts/rss" />
+      <outline text="NME" type="rss" xmlUrl="https://www.nme.com/rss" />
+      <outline text="Empire" type="rss" xmlUrl="https://www.empireonline.com/feed/" />
+
+      <!-- Regional News -->
+      <outline text="BBC London" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/london/rss.xml" />
+      <outline text="Liverpool Echo" type="rss" xmlUrl="https://www.liverpoolecho.co.uk/rss" />
+      <outline text="Manchester Evening News" type="rss" xmlUrl="https://www.manchestereveningnews.co.uk/rss" />
+      <outline text="Birmingham Mail" type="rss" xmlUrl="https://www.birminghammail.co.uk/news/rss" />
+      <outline text="Scotsman" type="rss" xmlUrl="https://www.scotsman.com/rss" />
+
+      <!-- Miscellaneous -->
+      <outline text="BuzzFeed UK" type="rss" xmlUrl="https://www.buzzfeed.com/uk/rss" />
+      <outline text="HuffPost UK" type="rss" xmlUrl="https://www.huffingtonpost.co.uk/feeds/index.xml" />
+      <outline text="The Drum" type="rss" xmlUrl="https://www.thedrum.com/rss" />
+      <outline text="The New Statesman" type="rss" xmlUrl="https://www.newstatesman.com/rss" />
+      <outline text="The Spectator" type="rss" xmlUrl="https://www.spectator.co.uk/rss" />
+    </outline>
+  </body>
+</opml>
