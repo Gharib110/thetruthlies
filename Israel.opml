@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Israel News Feeds</title>
+  </head>
+  <body>
+    <outline text="Israel News" title="Israel News">
+      <!-- Major Israeli News Outlets -->
+      <outline text="Haaretz" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.734031" />
+      <outline text="The Jerusalem Post" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsHeadlines.aspx" />
+      <outline text="Ynet News" type="rss" xmlUrl="https://www.ynetnews.com/category/3082" />
+      <outline text="Times of Israel" type="rss" xmlUrl="https://www.timesofisrael.com/feed/" />
+      <outline text="Israel National News (Arutz Sheva)" type="rss" xmlUrl="https://www.israelnationalnews.com/Rss.aspx" />
+      <outline text="i24 News" type="rss" xmlUrl="https://www.i24news.tv/en/rss" />
+      <outline text="Globes" type="rss" xmlUrl="https://www.globes.co.il/en/home.usrss" />
+      <outline text="Calcalist" type="rss" xmlUrl="https://www.calcalist.co.il/GeneralRSS" />
+      <outline text="The Marker" type="rss" xmlUrl="https://www.themarker.com/cmlink/1.939" />
+      <outline text="Maariv" type="rss" xmlUrl="https://www.maariv.co.il/Rss/Rssfeeds" />
+      <outline text="Walla News" type="rss" xmlUrl="https://rss.walla.co.il/feed/22" />
+      <outline text="Israel Hayom" type="rss" xmlUrl="https://www.israelhayom.com/rss/" />
+      
+      <!-- Politics and Diplomacy -->
+      <outline text="Haaretz - Politics" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.734031?section=politics" />
+      <outline text="The Jerusalem Post - Politics" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsPolitics.aspx" />
+      <outline text="Ynet - Politics" type="rss" xmlUrl="https://www.ynetnews.com/category/3083" />
+      <outline text="Times of Israel - Politics" type="rss" xmlUrl="https://www.timesofisrael.com/topic/politics/feed/" />
+      <outline text="Israel National News - Politics" type="rss" xmlUrl="https://www.israelnationalnews.com/News/Section.aspx/1" />
+
+      <!-- Technology and Startups -->
+      <outline text="TechTime" type="rss" xmlUrl="https://www.techtime.co.il/feed/" />
+      <outline text="CTech by Calcalist" type="rss" xmlUrl="https://www.calcalistech.com/ctechnews/rss.xml" />
+      <outline text="Geektime Israel" type="rss" xmlUrl="https://www.geektime.co.il/feed/" />
+      <outline text="NoCamels" type="rss" xmlUrl="https://nocamels.com/feed/" />
+      <outline text="Start-Up Nation Central" type="rss" xmlUrl="https://startupnationcentral.org/blog/feed/" />
+      <outline text="Times of Israel - Tech" type="rss" xmlUrl="https://www.timesofisrael.com/topic/tech-news/feed/" />
+
+      <!-- Business and Economy -->
+      <outline text="The Jerusalem Post - Business" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsBusiness.aspx" />
+      <outline text="Haaretz - Business" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.734031?section=business" />
+      <outline text="Globes - Business" type="rss" xmlUrl="https://www.globes.co.il/en/section-business.rss" />
+      <outline text="Calcalist - Business" type="rss" xmlUrl="https://www.calcalist.co.il/RealRss?sv=43" />
+      <outline text="Times of Israel - Economy" type="rss" xmlUrl="https://www.timesofisrael.com/topic/israeli-economy/feed/" />
+
+      <!-- Security and Defense -->
+      <outline text="The Jerusalem Post - Defense" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsDefense.aspx" />
+      <outline text="Israel National News - Defense" type="rss" xmlUrl="https://www.israelnationalnews.com/News/Section.aspx/2" />
+      <outline text="Times of Israel - Defense" type="rss" xmlUrl="https://www.timesofisrael.com/topic/idf/feed/" />
+      <outline text="Haaretz - Defense" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.734031?section=defense" />
+      <outline text="Walla - Defense" type="rss" xmlUrl="https://rss.walla.co.il/feed/23" />
+
+      <!-- Culture and Lifestyle -->
+      <outline text="The Jerusalem Post - Culture" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsCulture.aspx" />
+      <outline text="Haaretz - Culture" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.734031?section=culture" />
+      <outline text="Times of Israel - Culture" type="rss" xmlUrl="https://www.timesofisrael.com/topic/culture/feed/" />
+      <outline text="Walla - Culture" type="rss" xmlUrl="https://rss.walla.co.il/feed/24" />
+      <outline text="Israel Hayom - Culture" type="rss" xmlUrl="https://www.israelhayom.com/topic/culture/feed/" />
+
+      <!-- Health and Science -->
+      <outline text="The Jerusalem Post - Health" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsHealth.aspx" />
+      <outline text="Times of Israel - Health" type="rss" xmlUrl="https://www.timesofisrael.com/topic/health-news/feed/" />
+      <outline text="Ynet - Health" type="rss" xmlUrl="https://www.ynetnews.com/category/3084" />
+      <outline text="Haaretz - Science" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.734031?section=science" />
+      <outline text="The Marker - Science" type="rss" xmlUrl="https://www.themarker.com/rss/science" />
+
+      <!-- Religion and Society -->
+      <outline text="Times of Israel - Religion" type="rss" xmlUrl="https://www.timesofisrael.com/topic/religion/feed/" />
+      <outline text="Israel National News - Religion" type="rss" xmlUrl="https://www.israelnationalnews.com/News/Section.aspx/3" />
+      <outline text="Haaretz - Society" type="rss" xmlUrl="https://www.haaretz.com/cmlink/1.734031?section=society" />
+      <outline text="The Jerusalem Post - Judaism" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsJudaism.aspx" />
+      <outline text="Ynet - Judaism" type="rss" xmlUrl="https://www.ynetnews.com/category/3085" />
+    </outline>
+  </body>
+</opml>
